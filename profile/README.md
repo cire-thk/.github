@@ -21,6 +21,6 @@ We love contributions! Whether you're here to fix bugs, contribute to projects, 
 
 ## Code of Conduct
 
-We are committed to providing a welcoming and inspiring community for all. Please review our `Code of Conduct` which outlines our expectations for participants within the community, as well as the steps for reporting unacceptable behavior. We are committed to providing a welcoming and safe environment for everyone.
+We are committed to providing a welcoming and inspiring community for all. Please review our [Code of Conduct](https://github.com/cire-thk/.github/blob/main/CODE_OF_CONDUCT.md) which outlines our expectations for participants within the community, as well as the steps for reporting unacceptable behavior. We are committed to providing a welcoming and safe environment for everyone.
 
 🚀 **Happy Coding!**
