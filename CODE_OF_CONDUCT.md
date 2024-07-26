@@ -52,12 +52,12 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the project maintainers responsible for enforcement.
 All complaints will be reviewed and investigated promptly and fairly.
 
-In addition, the `anti-discrimination order of cologne university of applied sciences` and the
-`order for dealing with sexualised discrimination and violence at the Cologne University of Applied Sciences`
+In addition, the `Anti-discrimination Regulation of Cologne University of Applied Sciences (TH Köln)` and the
+`Regulation for Dealing with Sexualised Discrimination and Violence at the Cologne University of Applied Sciences (TH Köln)`
 apply in case employees or students experience or are responsible for harassment or discrimination. 
 The orders can be found [here](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/endfassung_25_2024.pdf) 
 and [here](https://www.th-koeln.de/mam/downloads/deutsch/hochschule/amtlichemitteilungen/2020/endfassung_05_2020_final.pdf) (both in German).
-In case of misconduct you may contact the official contact points detailed in the above orders.
+If you have experienced or witnessed misconduct, you can contact the official contact points listed in the above regulations.
 
 ## Scope
 
