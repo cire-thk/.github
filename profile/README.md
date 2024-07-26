@@ -3,21 +3,17 @@
 
 
 ### What We Do
-Here at CIRE, we are committed to transform our power grid towards 100% renewable energy.
-This organization serves as a hub for the curated code produced by our employees and in student projects. 
-You'll (soon) find repositories showcasing innovative research and useful tools for the entire energy sector.
+Here at CIRE, we are committed to transforming our electricity grid to 100% renewable energy.
+
+This organization serves as a hub for the curated open-source code produced by our employees and in student projects. 
+You'll (soon) find repositories with innovative research and useful tools for the entire energy sector.
 
 ## How to Contribute
 
-We love contributions! Whether you're here to fix bugs, contribute to projects, or propose new ideas, we value your input and encourage you to join us in making technology better for everyone. Here's how you can get started:
-
-1. **Explore Repositories:** Browse through our existing projects to find something that piques your interest.
-2. **Fork and Clone:** Found something you like? Fork it and clone it locally to start making your changes.
-3. **Pull Requests:** After making your modifications, submit a pull request. Please ensure you provide a detailed description of what changes you've made and why.
-4. **Code Reviews:** Engage with community or team reviews to ensure your contributions meet our standards and align with project goals.
+We love contributions! Whether you're here to fix bugs, contribute to projects, or propose new ideas, we value your input and encourage you to join us in making technology better for everyone.
 
 ## Stay Connected
-** [Official CIRE Website](https://www.th-koeln.de/anlagen-energie-und-maschinensysteme/cologne-institute-for-renewable-energy_13385.php) **
+**[Official CIRE Website](https://www.th-koeln.de/anlagen-energie-und-maschinensysteme/cologne-institute-for-renewable-energy_13385.php)**
 
 ## Code of Conduct
 
